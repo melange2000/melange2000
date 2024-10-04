@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Melanie
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding, but I don't know where to start
 - 💻 Studying web design
 
 <!---
